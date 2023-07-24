@@ -26,4 +26,4 @@ Exciting times! Our HealthCareSystem UX/UI design is all set to show off the ama
 
 Ta-da! We're on a mission to revolutionize healthcare management with our HealthCareSystem UX/UI design. Our goal is to make patient care and medical operations a breeze for healthcare professionals like you. Stay tuned for more awesomeness to come! 🏥
 
-(https://media.giphy.com/media/3o7TKuFYevgE2b6Mx2/giphy.gif)
+![Emoji](https://media.giphy.com/media/3o7TKuFYevgE2b6Mx2/giphy.gif)
